@@ -101,6 +101,11 @@ layout: default
       {% endfor %}
     </div>
 
+    {% capture total_size %} {{ paginator.posts | size }} {% endcapture %}
+    {% assign sizeT = total_size | plus: 0 %}
+    {% if sizeT <= 1 %}
+    {% else %}
+
     <nav class="pagination" role="navigation">
       {% if paginator.next_page %}
         <a class="newer-posts" href={{ "/page" | prepend: site.baseurl | append: paginator.next_page }}>&larr; Older posts</a>
@@ -118,5 +123,7 @@ layout: default
 
     <!-- {{!! After all the posts, we have the previous/next pagination links }}
     {{pagination}} -->
+
+    {% endif%}
 
 </main>
