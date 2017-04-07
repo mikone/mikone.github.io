@@ -38,7 +38,7 @@ layout: default
             <header class="post-header">
               <h2 class="post-title" itemprop="name">{{ post.title }}</h2>
             </header>
-            <section class="post-excerpt" itemprop="description">
+            <section class="post-content" itemprop="description">
               <p>{{ post.content}}</p>
             </section>
             <div class="post-meta">
@@ -59,7 +59,7 @@ layout: default
             <header class="post-header">
               <h2 class="post-title" itemprop="name"><a href="{{ post.url | prepend: site.baseurl }}" itemprop="url">{{ post.title }}</a></h2>
             </header>
-            <section class="post-excerpt" itemprop="description">
+            <section class="" itemprop="description">
               <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
             </section>
             <div class="post-meta">
@@ -86,7 +86,7 @@ layout: default
             <header class="post-header">
               <h2 class="post-title" itemprop="name"><a href="{{ post.url | prepend: site.baseurl }}" itemprop="url">{{ post.title }}</a></h2>
             </header>
-            <section class="post-excerpt" itemprop="description">
+            <section class="" itemprop="description">
               <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
             </section>
             <div class="post-meta">

@@ -43,11 +43,15 @@ social:
 
   - icon:	facebook
     url:	https://www.facebook.com/criscuolo.michele?ref=site
-    desc: Resta connesso con me su facebook
+    desc: Resta connesso con me tramite facebook
     share_url: https://www.facebook.com/sharer.php
     share_title: ?t=
     share_link: "&amp;u="
 
+  - icon: linkedin 
+    url: "https://www.linkedin.com/in/michelecriscuolo/ref=site/"
+    desc: "Vuoi sapere qualcosa di più?"
+    
 #  - icon:	github
 #    url:	https://github.com/dirkfabisch
 #    desc:	Fork me on github
