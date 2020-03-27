@@ -4,11 +4,11 @@
     <title>Michele Criscuolo</title>
     <description>Developer ● Unity ● Web ● Mobile
 </description>
-    <link>#/</link>
-    <atom:link href="#/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 13 Apr 2017 15:44:36 +0200</pubDate>
-    <lastBuildDate>Thu, 13 Apr 2017 15:44:36 +0200</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 27 Mar 2020 14:44:37 +0100</pubDate>
+    <lastBuildDate>Fri, 27 Mar 2020 14:44:37 +0100</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title></title>
@@ -31,7 +31,7 @@ Ho lavorato per oltre 2 anni allo sviluppo nativo della app e ancora oggi in seg
 Con Mangatar ho sviluppato nuove competenze, sono diventato un &lt;strong&gt;Digital Entrepreneur&lt;/strong&gt; ed ho intrapreso l’avventura dello sviluppo di videogame.&lt;/p&gt;
 
 &lt;p&gt;Negli ultimi sei anni ho vinto diverse competizioni per &lt;strong&gt;Startup&lt;/strong&gt; e lavorato con clienti come &lt;strong&gt;Digital Bros&lt;/strong&gt;.
-Oggi, questo ciclo di maturazione mi ha portato a voler fare ancora una volta qualcosa di nuovo e a cercare nuovi stimoli e problemi da risolvere. &lt;/p&gt;
+Oggi, questo ciclo di maturazione mi ha portato a voler fare ancora una volta qualcosa di nuovo e a cercare nuovi stimoli e problemi da risolvere.&lt;/p&gt;
 
 &lt;p&gt;Si è capito che mi piacciono le sfide?&lt;/p&gt;
 
@@ -52,8 +52,8 @@ Oggi, questo ciclo di maturazione mi ha portato a voler fare ancora una volta qu
 &lt;div class=&quot;buzz&quot; style=&quot;position: relative; padding-bottom: 60%; padding-top: 8\0px; height: 0; overflow: hidden;&quot;&gt;&lt;iframe src=&quot;https://buzzoole.com/z94jMrne6EzEMq3g/influence&quot; width=&quot;100%&quot; height=&quot;100%&quot; style=&quot;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 </description>
         <pubDate>Sun, 30 Nov 2014 15:34:25 +0100</pubDate>
-        <link>#/2014/11/30/MyHomepage.html</link>
-        <guid isPermaLink="true">#/2014/11/30/MyHomepage.html</guid>
+        <link>http://localhost:4000/2014/11/30/MyHomepage.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/11/30/MyHomepage.html</guid>
         
         <category>home</category>
         
